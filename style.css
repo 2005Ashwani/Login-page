@@ -1,0 +1,78 @@
+.container {
+    height: 600px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 450px;
+    box-shadow: 0px 0px 50px rgb(83, 197, 22);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.button-1 {
+    color: white;
+    background-color: rgb(9, 4, 85);
+    text-align: center;
+    height: 30px;
+    width: 350px;
+    margin-left: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h5 {
+    text-align: center;
+}
+
+.blank-1 {
+    margin-left: 25px;
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+.blank-2 {
+    margin-left: 25px;
+    width: 350px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+.blank-3 {
+    margin-left: 25px;
+    width: 350px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+.blank-4 {
+    margin-left: 25px;
+    width: 350px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.button-2 {
+    text-align: center;
+    width: 350px;
+    height: 35px;
+    margin-left: 25px;
+    color: white;
+    background-color: rgb(33, 220, 189);
+    border-radius: 5px;
+cursor: pointer;
+}
